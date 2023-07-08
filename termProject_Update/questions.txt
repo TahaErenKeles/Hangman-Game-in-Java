@@ -1,0 +1,15 @@
+A type of tree with a red fruit,PIKATV,CHERRY,60
+A type of animal with stripes,UHANXZ,TIGER,50
+A type of bird that can't fly,DEAJPL,OSTRICH,70
+A type of fruit with a green skin,TSQEOD,KIWI,40
+A type of vegetable that grows underground,NVAZUF,BEET,40
+A type of fruit with a tough outer layer and a soft inside,YSAELW,COCONUT,70
+A type of plant with large flat leaves and tall slender stems,PLUNOE,BAMBOO,60
+A type of long thin pasta with ridges,UKHESZ,RIGATONI,80
+A type of fish with a flat body and a spiny back,KMOEQF,STINGRAY,80
+A type of animal with hooves and a mane,YTUJGL,HORSE,50
+A type of mammal with a long bushy tail and a round face,IUXPTQ,RACCOON,70
+A type of bird with a long neck and a beak,OBTSRU,FLAMINGO,80
+A type of vegetable with a tough outer skin and a soft inside,JFRIEX,AVOCADO,70
+A type of fruit with a tough outer skin and a soft juicy inside,RUEPWZ,MANGO,50
+A type of reptile with a long thin body and scales,IUXPTQ,SNAKE,50
